@@ -1,0 +1,16 @@
+Factory,Regional.DC,Country.DC,Product,Quantity
+Perth,,Auckland,Product A,1000
+Perth,,Auckland,Product B,2000
+Perth,,Auckland,Product C,800
+Perth,,Taipei,Product A,3200
+Perth,,Taipei,Product B,1700
+Perth,,Taipei,Product C,1000
+Perth,Singapore,Singapore,Product A,400
+Perth,Singapore,Singapore,Product B,900
+Perth,Singapore,Singapore,Product C,2000
+Perth,Singapore,Kuala Lumpur,Product A,1300
+Perth,Singapore,Kuala Lumpur,Product B,2400
+Perth,Singapore,Kuala Lumpur,Product C,800
+Perth,Singapore,Bangkok,Product A,900
+Perth,Singapore,Bangkok,Product B,1800
+Perth,Singapore,Bangkok,Product C,1400

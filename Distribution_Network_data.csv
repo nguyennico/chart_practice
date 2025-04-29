@@ -1,0 +1,16 @@
+distribution_center,channel_type,customer_name,product,sales_qty
+Jakarta,Wholesaler,Distributor 1,Product A,1000
+Jakarta,Wholesaler,Distributor 1,Product B,2000
+Jakarta,Wholesaler,Distributor 1,Product C,800
+Jakarta,Wholesaler,Distributor 2,Product A,3200
+Jakarta,Wholesaler,Distributor 2,Product B,1700
+Jakarta,Wholesaler,Distributor 2,Product C,1000
+Jakarta,Wholesaler,Distributor 3,Product A,400
+Jakarta,Wholesaler,Distributor 3,Product B,900
+Jakarta,Wholesaler,Distributor 3,Product C,2000
+Jakarta,Wholesaler,Distributor 4,Product A,1300
+Jakarta,Wholesaler,Distributor 4,Product B,2400
+Jakarta,Wholesaler,Distributor 4,Product C,800
+Jakarta,Direct,Convenience Store,Product A,900
+Jakarta,Direct,Convenience Store,Product B,1800
+Jakarta,Direct,Hypermarket,Product C,1400
